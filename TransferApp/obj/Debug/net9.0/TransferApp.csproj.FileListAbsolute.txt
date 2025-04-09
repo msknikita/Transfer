@@ -1,0 +1,14 @@
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\bin\Debug\net9.0\TransferApp.exe
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\bin\Debug\net9.0\TransferApp.deps.json
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\bin\Debug\net9.0\TransferApp.runtimeconfig.json
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\bin\Debug\net9.0\TransferApp.dll
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\bin\Debug\net9.0\TransferApp.pdb
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\obj\Debug\net9.0\TransferApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\obj\Debug\net9.0\TransferApp.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\obj\Debug\net9.0\TransferApp.AssemblyInfo.cs
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\obj\Debug\net9.0\TransferApp.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\obj\Debug\net9.0\TransferApp.dll
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\obj\Debug\net9.0\refint\TransferApp.dll
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\obj\Debug\net9.0\TransferApp.pdb
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\obj\Debug\net9.0\TransferApp.genruntimeconfig.cache
+C:\Users\Nikita\Documents\Projects\TransferApp\TransferApp\obj\Debug\net9.0\ref\TransferApp.dll
